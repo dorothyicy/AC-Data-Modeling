@@ -18,15 +18,18 @@ Build a star schema and create calculated column/DAX Measures to create below vi
 - USABicycleSales: Total Sales made for bicycles in the United States of America.
 
 3A: Sales Dashboard
+
 Business users at AdventureWorks would like you to create an interactive dashboard showing the breakdown of their sales by the following:
 - Breakdown by SalesTerritory
 - Breakdown by Product Categories and Subcategories
 - Breakdown by Sales Persons with their sales commissions
 
 3B - Reseller Profile Dashboard
+
 Business users at AdventureWorks would like to better understand the types of resellers they are selling to create an ideal profile for their sales and marketing teams to prioritize leads. Based on your understanding of the DimReseller table, create a dashboard showing the profile of the resellers using at least 3 attributes.
 
 3C
+
 Management would like your help to understand the following – find the answer using any method of your choice but show your work (i.e. create a visual or leave the filters applied):
 - How many (count) products have been sold at a loss (negative gross margin)?
 - What are the top 3 most popular colours for bicycles?
