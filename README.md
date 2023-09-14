@@ -19,7 +19,7 @@ Build a star schema and create calculated column/DAX Measures to create below vi
 - USABicycleSales: Total Sales made for bicycles in the United States of America.
 
 
-3A: Sales Dashboard
+3A - Sales Dashboard
 
 Business users at AdventureWorks would like you to create an interactive dashboard showing the breakdown of their sales by the following:
 - Breakdown by SalesTerritory
